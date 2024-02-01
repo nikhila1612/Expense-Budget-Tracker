@@ -1,4 +1,4 @@
-# Expense & Budget tracker
+# Expense & Budget tracker 💸
 Welcome to the Expense & Budget Tracker! This simple Python script helps you keep track of your expenses and manage your budget.
 # Screenshots
 ![Budget-Tracker](https://github.com/nikhila1612/Expense-Budget-Tracker/assets/84263617/c0013c41-e84b-4816-9c42-d4d68fd702b9)
