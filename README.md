@@ -1,5 +1,8 @@
 # Expense & Budget tracker
 Welcome to the Expense & Budget Tracker! This simple Python script helps you keep track of your expenses and manage your budget.
+# Screenshots
+![Budget-Tracker](https://github.com/nikhila1612/Expense-Budget-Tracker/assets/84263617/c0013c41-e84b-4816-9c42-d4d68fd702b9)
+![Budget-Tracker2](https://github.com/nikhila1612/Expense-Budget-Tracker/assets/84263617/363e1df1-f76e-4188-a323-c4c48b2a387a)
 
 # Features
 1. Expense Categories: Categorize your expenses into various categories such as Food, Home, Work, Fun, Travel, and Miscellaneous.
@@ -39,5 +42,6 @@ Welcome to the Expense & Budget Tracker! This simple Python script helps you kee
 This script uses a simple CSV file (expenses.csv) to store your expense data. Feel free to explore the code and customize it to suit your needs.
 
 Enjoy tracking your expenses and managing your budget with the Expense & Budget Tracker! 💰
+
 
  
